@@ -1,0 +1,5 @@
+EntropyZero SOAP Message Helpers
+----------------------------------
+
+These classes were created to allow basic communication with .Net Web Services with the iPhone 2.0 SDK.  They worked for us, so we thought we would share them to help jump start your development.
+
